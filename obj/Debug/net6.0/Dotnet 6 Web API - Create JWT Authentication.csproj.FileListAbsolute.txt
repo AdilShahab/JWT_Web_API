@@ -1,0 +1,71 @@
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\appsettings.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.exe
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.deps.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.runtimeconfig.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.pdb
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.AssemblyReference.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.AssemblyInfoInputs.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.AssemblyInfo.cs
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.CoreCompileInputs.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\scopedcss\bundle\Dotnet 6 Web API - Create JWT Authentication.styles.css
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.CopyComplete
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\refint\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.pdb
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.genruntimeconfig.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\obj\Debug\net6.0\ref\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\appsettings.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.exe
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.deps.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.runtimeconfig.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.pdb
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Scrutor.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.AssemblyReference.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.AssemblyInfoInputs.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.AssemblyInfo.cs
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.CoreCompileInputs.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\scopedcss\bundle\Dotnet 6 Web API - Create JWT Authentication.styles.css
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.csproj.CopyComplete
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\refint\Dotnet 6 Web API - Create JWT Authentication.dll
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.pdb
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\Dotnet 6 Web API - Create JWT Authentication.genruntimeconfig.cache
+F:\ASP Dotnet core Web API and EF\Dotnet 6 Web API - Create JWT Authentication - Authorization\obj\Debug\net6.0\ref\Dotnet 6 Web API - Create JWT Authentication.dll
